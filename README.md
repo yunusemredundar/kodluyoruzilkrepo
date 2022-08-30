@@ -23,3 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[patika.dev](http://www.patika.dev)
+
+[patika profilim](https://app.patika.dev/yunusemredundar)
